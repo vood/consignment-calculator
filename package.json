@@ -1,16 +1,18 @@
 {
   "name": "consignment-calculator",
   "version": "1.0.0",
-  "main": "index.js",
   "dependencies": {
     "autoprefixer": "^10.4.15",
-    "postcss": "^8.4.29",
+    "parcel": "*",
+    "postcss": "^8.2.15",
     "preact": "^10.5.15",
-    "tailwindcss": "^3.3.3",
-    "parcel": "*"
+    "tailwindcss": "^3.3.3"
   },
   "scripts": {
     "start": "parcel public/index.html",
     "publish": "parcel build public/index.html --public-url ."
+  },
+  "devDependencies": {
+    "cssnano": "^6.0.1"
   }
 }
