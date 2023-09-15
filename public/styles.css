@@ -1,0 +1,82 @@
+/*@import 'tailwindcss/base';*/
+/*@import 'tailwindcss/components';*/
+/*@import 'tailwindcss/utilities';*/
+
+/*body {*/
+/*  font-family: Arial, sans-serif;*/
+/*  margin: 0;*/
+/*  padding: 0;*/
+/*  display: flex;*/
+/*  justify-content: center;*/
+/*  align-items: center;*/
+/*  height: 100vh;*/
+/*  background-color: #f3f4f6;*/
+/*}*/
+
+/*.container {*/
+/*  text-align: center;*/
+/*  padding: 20px;*/
+/*  border-radius: 8px;*/
+/*  background-color: #ffffff;*/
+/*  box-shadow: 0px 4px 16px rgba(0, 0, 0, 0.1);*/
+/*}*/
+
+/*button {*/
+/*  padding: 10px;*/
+/*  font-size: 18px;*/
+/*  cursor: pointer;*/
+/*  border: none;*/
+/*  border-radius: 4px;*/
+/*  background-color: #4CAF50;*/
+/*  color: white;*/
+/*}*/
+
+/*button:hover {*/
+/*  background-color: #45a049;*/
+/*}*/
+
+/*h1, h2 {*/
+/*  margin-top: 0;*/
+/*}*/
+
+/*ul {*/
+/*  list-style-type: none;*/
+/*  padding: 0;*/
+/*}*/
+
+/*li {*/
+/*  margin: 5px 0;*/
+/*}*/
+
+/*.calculate-button {*/
+/*  background-color: #4CAF50;*/
+/*}*/
+
+/*.discount-button {*/
+/*  background-color: #2196F3;*/
+/*}*/
+
+/*.price-button {*/
+/*  background-color: #FF9800;*/
+/*}*/
+
+/*.remove-button {*/
+/*  background-color: #F44336;*/
+/*}*/
+
+/*!* Hover styles *!*/
+/*.calculate-button:hover {*/
+/*  background-color: #45a049;*/
+/*}*/
+
+/*.discount-button:hover {*/
+/*  background-color: #1976D2;*/
+/*}*/
+
+/*.price-button:hover {*/
+/*  background-color: #E65100;*/
+/*}*/
+
+/*.remove-button:hover {*/
+/*  background-color: #D32F2F;*/
+/*}*/
