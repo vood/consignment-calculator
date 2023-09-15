@@ -9,6 +9,7 @@
     "tailwindcss": "^3.3.3"
   },
   "scripts": {
-    "start": "parcel public/index.html"
+    "start": "parcel public/index.html",
+    "publish": "parcel build public/index.html --public-url ."
   }
 }
